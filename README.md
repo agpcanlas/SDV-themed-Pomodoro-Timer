@@ -6,6 +6,7 @@ Just a short note, I'm an Information Technology student and this is one of the 
 Custom icons were made by my girlfriend and she gave me this idea <3
 
 If you have any suggestions or questions you can message me on:
+- Discord: ad.restia
 - Instagram: restless.pixel
 
 ---
