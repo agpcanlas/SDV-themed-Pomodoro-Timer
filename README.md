@@ -10,9 +10,11 @@ Just a short note, I am an Information Technology student and this is one of the
 - Overall study time tracker
 - Moving clock
 ---
+
 ## Screenshot/s
 <img width="386" height="396" alt="image" src="https://github.com/user-attachments/assets/d29e296d-edb6-4c78-b4ad-1ae81bee5197" />
 ---
+
 ### Issues/Lacking Feautures (1.0.0)
 - [ ] Haven't updated the app name
 - [ ] Haven't updated the app icon
