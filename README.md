@@ -39,3 +39,5 @@ If you have any suggestions or questions you can message me on:
 This project is for personal or educational purposes.  
 Feel free to **rebuild, modify, or improve the app** as you like.  
 All designs are inspired by **ConcernedApe’s Stardew Valley** and are not owned by this project.
+
+and you maybe wondering why was it named reservation and it's bc i was gonna build a reservation app initially and the i switched after an hour or sumn and didn't bother changing
