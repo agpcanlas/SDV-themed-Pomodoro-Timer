@@ -1,7 +1,12 @@
 # SDV-themed-Pomodoro-Timer
 A pomodoro timer using designs by **ConcernedApe**, inspired by the cozy aesthetic of Stardew Valley.
 
-Just a short note, I am an Information Technology student and this is one of the projects I did on my free time for like a whole day and apologies as I still have a lot to learn and doing projects like this help me do so.
+Just a short note, I'm an Information Technology student and this is one of the projects I did on my free time for like a whole day and apologies as I still have a lot to learn and doing projects like this help me do so. You are free to rebuild and improve on it as you like since I don't think this is in an actual usable state as I wanted it to be just a floating widget just like in the game but my brain isn't braining when I'm trying.
+
+Custom icons were made by my girlfriend and she gave me this idea <3
+
+If you have any suggestions or questions you can message me on:
+- Instagram: restless.pixel
 
 ---
 
@@ -18,7 +23,7 @@ Just a short note, I am an Information Technology student and this is one of the
 
 ---
 
-### Issues/Lacking Feautures (1.0.0)
+### Issues/Lacking Features (1.0.0)
 - [ ] Haven't updated the app name
 - [ ] Haven't updated the app icon
 - [ ] No mute button
@@ -26,3 +31,10 @@ Just a short note, I am an Information Technology student and this is one of the
 - [ ] Overall time isn't locked in position
 - [ ] Chin larger than Thanos'
 - [ ] Icon highlights on hover are hideous
+
+---
+
+## ⚠️ Disclaimer
+This project is for personal or educational purposes.  
+Feel free to **rebuild, modify, or improve the app** as you like.  
+All designs are inspired by **ConcernedApe’s Stardew Valley** and are not owned by this project.
